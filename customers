@@ -1,0 +1,12 @@
+[
+{
+id:1,
+cName: 'ALFKI',
+contactName: 'Maria Anders'
+},
+{
+id:2,
+cName: 'ANTON',
+contactName: 'Antonio Moreno'
+}
+]
